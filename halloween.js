@@ -5,4 +5,6 @@ var myCandies = [
   "kit kat "
   "hershey bars"
 ];
-console.log(myCandies);
+var anotherFavCandies = ["lolipop", "candy crush"];
+var togetherCandies = myCandies.concat(anotherFavCandies);
+console.log(togetherCandies);
