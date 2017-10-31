@@ -1,0 +1,32 @@
+535  ls
+  536  mkdir getGit
+  537  cd getGit
+  538  touch halloween.js
+  539  git init
+  540  atom halloween.js
+  541  git status
+  542  git add .
+  543  git status
+  544  git commit -m"this is my not so favorite candy"
+  545  git remote add https://github.com/webbydon29/my-candy-is-cool.git
+  546  git commit .
+  547  git remote -v
+  548  git push -u origin master
+  549  git add
+  550  git add halloween.js
+  551  git status
+  552  atom .
+  553  git add halloween.js
+  554  git status
+  555  git commit -m"another set of my candies"
+  556  git push -u origin master
+  557  atom .
+  558  git push -u
+  559  history
+  560  git remote -v
+  561  git remote add origin https://github.com/webbydon29/my-candy-is-cool.git
+  562  git remote-v
+  563  git remote -v
+  564  git push -u origin master
+donaldrichtamayo@Dons-MacBook-Pro [10:14:34] [~/Desktop/galvanize/getGit] [master]
+-> %
